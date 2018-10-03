@@ -1,0 +1,16 @@
+namespace DAL.SHAREDCONTEXTMigrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class AddConstraint_IX_LU_COMPART_TYPE : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
